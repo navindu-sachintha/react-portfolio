@@ -1,0 +1,45 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+.web-header{
+  background-color: #000000;
+  color: #ffffff;
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.web-header-bar{
+  display: flex;
+  justify-content: space-around;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.web-header-logo {
+  font-family: inherit;
+  font-size: 50px;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.nav-list{
+  display: flex;
+  height: 100%;
+  list-style: none;
+  
+}
+
+.nav-links {
+  text-decoration: none;
+  color: #ffffff;
+  padding: 12px 30px 12px 30px;
+}
+
+.nav-links:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
