@@ -1,10 +1,17 @@
 import './App.css';
 import Navbar from './components/Navbar/Navbar';
+import Home from './components/Homepage/Homepage';
+import Typer from './components/Typer/Typer';
 
 function App() {
   return (
     <div className="App">
-      <Navbar />
+      <header>
+        <Navbar />
+        <Home />
+      </header>
+      
+      
     </div>
   );
 }
