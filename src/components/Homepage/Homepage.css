@@ -26,3 +26,17 @@ span {
   font-size: 40px;
   font-weight: 500;
 }
+
+.social-btn {
+  width: 90px;
+  height: 45px;
+  margin:10px 0 0 5px;
+}
+
+.icon{
+  font-size: 45px;
+}
+
+.icon:hover {
+  color: #ececec;
+}

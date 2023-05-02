@@ -1,13 +1,13 @@
 export const MenuItems = [
   {
     title : 'Home',
-    url : '#',
+    url : './App.js',
     cName : 'nav-links px-10'
   },
 
   {
     title : 'About',
-    url : '#',
+    url : './components/pages/About.js',
     cName : 'nav-links px-10'
   },
 
