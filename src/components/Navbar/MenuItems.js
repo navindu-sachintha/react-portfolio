@@ -12,7 +12,7 @@ export const MenuItems = [
   },
 
   {
-    title : 'Work',
+    title : 'Blog',
     url : '#',
     cName : 'nav-links px-10'
   },

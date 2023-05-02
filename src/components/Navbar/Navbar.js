@@ -8,7 +8,7 @@ class Navbar extends Component {
       
         <div className='header-bar flex flex-row'>
           <div className='header-logo flex-auto'>
-            Navindu
+            _NS
           </div>
           <nav className='nav-menu flex-auto'>
             <ul className='flex flex-row'>
