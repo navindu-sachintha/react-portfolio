@@ -1,0 +1,42 @@
+.home-bg {
+  background-color: #FCC31E;
+  height: 100vh;
+}
+
+.main-pic {
+  max-width: 500px;
+  height: 500px;
+  background-image: url(../Assets/main.webp);
+  padding: 25px;
+}
+
+.home-r-content {
+  text-align: left;
+  padding-left: 40px;
+  padding-top: 125px;
+}
+
+h2 {
+  font-size: 55px;
+  font-weight: 600;
+}
+
+span {
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.social-btn {
+  width: 90px;
+  height: 45px;
+  margin:10px 0 0 5px;
+}
+
+.icon{
+  font-size: 45px;
+}
+
+.icon:hover {
+  color: #ececec;
+}
