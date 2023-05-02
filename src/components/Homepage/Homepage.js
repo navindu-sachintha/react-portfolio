@@ -8,8 +8,8 @@ function Homepage(){
     <div className="home-bg flex flex-row">
     <div className="home-r flex-auto basis-1/6">
       <div className="home-r-content">
-        <h2>Hello,</h2>
-        <h2>I'm Navindu Sachintha</h2>
+        <div className="title-r">Hello,</div>
+        <div className="title-r">I'm Navindu Sachintha</div>
         <span><Typer /></span>
         <div className="home-social flex">
           <button onClick={() => {
