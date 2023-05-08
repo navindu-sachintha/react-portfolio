@@ -7,7 +7,7 @@ export default function Footer (){
   return (
     <div className="footer">
       <div className="footer-content flex flex-row">
-        <p className="f-title">Made with ❤️ by Myself</p>
+        <p className="f-title">Brewed with ❤️ by Myself</p>
         <p className="f-tagline">Copyright © {year} _NS</p>
       </div>
     </div>
