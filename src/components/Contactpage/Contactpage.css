@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+.contactpage{
+    background-color: #ececec;
+    height: 100dvh;
+}
+.container{
+    padding: 16px;
+    display:block;
+}
+
+input[type=text], input[type=email],textarea{
+    width: 200px;
+    padding: 8px;
+    margin: 10px 0 10px 0;
+
+}
+
+button{
+    margin-top: 10px;
+    border: solid #000000 3px;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+button:hover {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+textarea{
+    height: 200px;
+}
+
+label{
+    text-align: left;
+}
