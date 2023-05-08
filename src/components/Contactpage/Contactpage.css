@@ -18,14 +18,14 @@ input[type=text], input[type=email],textarea{
 
 }
 
-button{
+button[type=submit]{
     margin-top: 10px;
     border: solid #000000 3px;
     padding: 5px;
     border-radius: 20px;
 }
 
-button:hover {
+button[type=submit]:hover {
     color: #ffffff;
     background-color: #000000;
 }
