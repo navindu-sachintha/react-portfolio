@@ -9,7 +9,8 @@ export default function Aboutpage (){
       </div>
       <div className="about-content">
         <p>Hiya, I'm Navindu Sachintha<br></br>
-          A Developer <strong>Passionate in Learning who studying computer science in <a href="https://nsbm.ac.lk/">NSBM</a></strong>
+          A Developer <strong>Passionate in Learning</strong></br>
+          who studying computer science in <a href="https://nsbm.ac.lk/">NSBM</a>
         </p>
       </div>
       <div className="about-img">
